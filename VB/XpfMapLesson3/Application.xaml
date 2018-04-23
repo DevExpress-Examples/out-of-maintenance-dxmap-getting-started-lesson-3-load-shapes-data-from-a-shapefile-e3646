@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="XpfMapLesson3.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">1E-63-90-FC-4B-E8-5D-34-95-1F-8F-0B-39-00-FE-E8-6D-7E-E2-E0</my:String>
+  </Application.Resources>
+</Application>
